@@ -1,9 +1,16 @@
 # Student-portfolio source reference
 
-
-Source reviewed: [`473207558f76`](https://github.com/noel-ult/Student-portfolio/commit/473207558f767ccef9b0c18ac93f328ee2a0c0b6).
+Source reviewed: [`5183d373f4de`](https://github.com/noel-ult/Student-portfolio/commit/5183d373f4de2a407e1aaece9eb9d2edf7034e5c).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
+
+## Existing documentation
+
+Historical plans/reports describe their own revision; use current source when they disagree.
+
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
